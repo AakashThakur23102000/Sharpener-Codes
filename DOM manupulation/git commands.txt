@@ -1,0 +1,16 @@
+git config --global user.name "AakashThakur23102000"
+git config --global user.email "aakashthakur20001972@gmail.com"
+
+git config --list      to check entred deails are properly entred
+
+git init     to intitalize it locally
+
+
+in vs code go to source control icon and then add files and type commit comment
+
+
+
+then in terminal
+git remote add origin https://github.com/AakashThakur23102000/Banking-Software-by-Pyhton-MySQL.git
+git branch -M main
+
